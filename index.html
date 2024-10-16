@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet" />
+    <title>Upload dan Hapus File</title>
+    <style>
+
+body {
+    background: aliceblue;
+}
+
+    </style>
+</head>
+<body>
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white py-3 fixed-top" id="navbar">
+                <div class="container px-5">
+                    <a class="navbar-brand" href="index.html"><span class="fw-bolder text-primary">Apiku</span></a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0 small fw-bolder">
+                            <li class="nav-item"><a class="nav-link" href="../index.php">Home</a></li>
+                            <li class="nav-item"><a class="nav-link" href="../dokumentasi.html">Dokumentasi</a></li>
+                            <li class="nav-item"><a class="nav-link" href="../informasi.html">Informasi</a></li>
+                            <li class="nav-item"><a class="nav-link" href="../contact.html">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>            
+<div class="container px-5 my-5" style="padding-top:50px;">
+<div class="text-center mb-5">
+                    <h1 class="display-5 fw-bolder mb-0"><span class="text-gradient d-inline">Upload Website</span></h1>
+                </div>
+                <div class="shadow p-3 mb-5 bg-body-tertiary rounded">
+    <h2>Buat Folder dan Upload File</h2>
+    <form id="uploadForm" action="index.html" method="POST" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="folderName" class="form-label">Nama Folder</label>
+            <input type="text" class="form-control" id="folderName" name="folderName" required>
+        </div>
+        <div class="mb-3">
+            <label for="fileUpload" class="form-label">Unggah File</label>
+            <input type="file" class="form-control" id="fileUpload" name="fileUpload[]" multiple required>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:100%;">Upload</button>
+    </form>
+    </div>
+
+    <hr>
+
+    <h3>Hapus File</h3>
+    <form action="index.html" method="POST">
+        <div class="mb-3">
+            <label for="deleteFolder" class="form-label">Pilih Folder</label>
+            <select class="form-select" id="deleteFolder" name="deleteFolder" onchange="loadFiles(this.value)">
+                <option value="">-- Pilih Folder --</option>
+            </select>
+        </div>
+        <div id="fileList" class="mb-3"></div>
+        <button type="submit" class="btn btn-danger" name="deleteFile">Hapus File</button>
+    </form>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        loadFolders(); // Load folders from localStorage when the page loads
+    });
+
+    function loadFolders() {
+        const folderSelect = document.getElementById('deleteFolder');
+        const storedFolders = JSON.parse(localStorage.getItem('folders')) || [];
+
+        // Clear the existing options
+        folderSelect.innerHTML = '<option value="">-- Pilih Folder --</option>';
+
+        storedFolders.forEach(folder => {
+            const option = document.createElement('option');
+            option.value = folder;
+            option.textContent = folder;
+            folderSelect.appendChild(option);
+        });
+    }
+
+    function saveFolderToLocalStorage(folderName) {
+        let storedFolders = JSON.parse(localStorage.getItem('folders')) || [];
+        if (!storedFolders.includes(folderName)) {
+            storedFolders.push(folderName);
+            localStorage.setItem('folders', JSON.stringify(storedFolders));
+            loadFolders(); // Refresh dropdown
+        }
+    }
+
+    function loadFiles(folder) {
+    const fileListDiv = document.getElementById('fileList');
+    fileListDiv.innerHTML = ''; // Clear previous file list
+
+    if (folder) {
+        const xhr = new XMLHttpRequest();
+        xhr.open('GET', `get_file.php?folder=${folder}`, true);
+        xhr.onload = function () {
+            if (this.status === 200) {
+                const files = JSON.parse(this.responseText);
+                const fileEntries = Object.entries(files); // Convert the response object into an array of entries
+
+                if (fileEntries.length > 0) {
+                    fileEntries.forEach(([key, fileName]) => {
+                        const checkbox = document.createElement('input');
+                        checkbox.type = 'radio';
+                        checkbox.name = 'fileNameToDelete';
+                        checkbox.value = fileName;
+                        checkbox.id = fileName;
+
+                        const label = document.createElement('label');
+                        label.htmlFor = fileName;
+                        label.textContent = fileName;
+
+                        const br = document.createElement('br');
+
+                        fileListDiv.appendChild(checkbox);
+                        fileListDiv.appendChild(label);
+                        fileListDiv.appendChild(br);
+                    });
+                } else {
+                    fileListDiv.innerHTML = '<div class="alert alert-warning">Tidak ada file di folder ini.</div>';
+                }
+            }
+        };
+        xhr.send(); // Don't forget to send the request!
+    }
+}
+
+</script>
+<script src="../js/scripts.js"></script>
+</body>
+</html>
