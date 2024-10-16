@@ -41,7 +41,7 @@ body {
                 </div>
                 <div class="shadow p-3 mb-5 bg-body-tertiary rounded">
     <h2>Buat Folder dan Upload File</h2>
-    <form id="uploadForm" action="index.html" method="POST" enctype="multipart/form-data">
+    <form id="uploadForm" action="https://websiteku-black.vercel.app/index.html" method="POST" enctype="multipart/form-data">
         <div class="mb-3">
             <label for="folderName" class="form-label">Nama Folder</label>
             <input type="text" class="form-control" id="folderName" name="folderName" required>
@@ -57,7 +57,7 @@ body {
     <hr>
 
     <h3>Hapus File</h3>
-    <form action="index.html" method="POST">
+    <form action="https://websiteku-black.vercel.app/index.html" method="POST">
         <div class="mb-3">
             <label for="deleteFolder" class="form-label">Pilih Folder</label>
             <select class="form-select" id="deleteFolder" name="deleteFolder" onchange="loadFiles(this.value)">
