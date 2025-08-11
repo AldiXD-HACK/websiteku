@@ -1,0 +1,1626 @@
+[
+  {
+    "kode": "A5",
+    "keterangan": "Axis 5.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "5841",
+    "status": "1"
+  },
+  {
+    "kode": "A10",
+    "keterangan": "Axis 10.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "10822",
+    "status": "1"
+  },
+  {
+    "kode": "A15",
+    "keterangan": "Axis 15.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "14940",
+    "status": "1"
+  },
+  {
+    "kode": "A25",
+    "keterangan": "Axis 25.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "24899",
+    "status": "1"
+  },
+  {
+    "kode": "A30",
+    "keterangan": "Axis 30.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "29882",
+    "status": "1"
+  },
+  {
+    "kode": "A50",
+    "keterangan": "Axis 50.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "49800",
+    "status": "1"
+  },
+  {
+    "kode": "A100",
+    "keterangan": "Axis 100.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "99260",
+    "status": "1"
+  },
+  {
+    "kode": "A150",
+    "keterangan": "Axis 150.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "149345",
+    "status": "1"
+  },
+  {
+    "kode": "A200",
+    "keterangan": "Axis 200.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "199100",
+    "status": "1"
+  },
+  {
+    "kode": "AXTP20",
+    "keterangan": "Axis Transfer 20.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "19420",
+    "status": "1"
+  },
+  {
+    "kode": "A40",
+    "keterangan": "Axis 40.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "39974",
+    "status": "1"
+  },
+  {
+    "kode": "A60",
+    "keterangan": "Axis 60.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "59945",
+    "status": "1"
+  },
+  {
+    "kode": "A70",
+    "keterangan": "Axis 70.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "69928",
+    "status": "1"
+  },
+  {
+    "kode": "A80",
+    "keterangan": "Axis 80.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "79935",
+    "status": "1"
+  },
+  {
+    "kode": "A90",
+    "keterangan": "Axis 90.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "89918",
+    "status": "1"
+  },
+  {
+    "kode": "A300",
+    "keterangan": "Axis H2H 300.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "299202",
+    "status": "1"
+  },
+  {
+    "kode": "A500",
+    "keterangan": "Axis H2H 500.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "498670",
+    "status": "1"
+  },
+  {
+    "kode": "A1JT",
+    "keterangan": "Axis H2H 1.000.000",
+    "produk": "Axis",
+    "kategori": "PULSA",
+    "harga": "996840",
+    "status": "1"
+  },
+  {
+    "kode": "I20",
+    "keterangan": "Indosat 20.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "20525",
+    "status": "1"
+  },
+  {
+    "kode": "I25",
+    "keterangan": "Indosat 25.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "25200",
+    "status": "1"
+  },
+  {
+    "kode": "I30",
+    "keterangan": "Indosat 30.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "30275",
+    "status": "1"
+  },
+  {
+    "kode": "I50",
+    "keterangan": "Indosat 50.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "49000",
+    "status": "1"
+  },
+  {
+    "kode": "I100",
+    "keterangan": "Indosat 100.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "97570",
+    "status": "1"
+  },
+  {
+    "kode": "IA5",
+    "keterangan": "Isat Promo 5.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "6421",
+    "status": "1"
+  },
+  {
+    "kode": "IA10",
+    "keterangan": "Isat Promo 10.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "11405",
+    "status": "1"
+  },
+  {
+    "kode": "I10",
+    "keterangan": "Indosat 10.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "11405",
+    "status": "1"
+  },
+  {
+    "kode": "I5",
+    "keterangan": "Indosat 5.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "6447",
+    "status": "1"
+  },
+  {
+    "kode": "I40",
+    "keterangan": "Indosat 40.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "39540",
+    "status": "1"
+  },
+  {
+    "kode": "I60",
+    "keterangan": "Indosat 60.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "58995",
+    "status": "1"
+  },
+  {
+    "kode": "I80",
+    "keterangan": "Indosat 80.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "78430",
+    "status": "1"
+  },
+  {
+    "kode": "I15",
+    "keterangan": "Indosat 15.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "15750",
+    "status": "1"
+  },
+  {
+    "kode": "I90",
+    "keterangan": "Indosat 90.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "88305",
+    "status": "1"
+  },
+  {
+    "kode": "I12",
+    "keterangan": "Indosat 12.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "12810",
+    "status": "1"
+  },
+  {
+    "kode": "I200",
+    "keterangan": "Indosat 200.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "197650",
+    "status": "1"
+  },
+  {
+    "kode": "I500",
+    "keterangan": "Indosat 500.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "500860",
+    "status": "1"
+  },
+  {
+    "kode": "I150",
+    "keterangan": "Indosat 150.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "148400",
+    "status": "1"
+  },
+  {
+    "kode": "I70",
+    "keterangan": "Indosat 70.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "68580",
+    "status": "1"
+  },
+  {
+    "kode": "I1JT",
+    "keterangan": "Indosat H2H 1.000.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "987985",
+    "status": "1"
+  },
+  {
+    "kode": "I115",
+    "keterangan": "Indosat 115.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "114075",
+    "status": "1"
+  },
+  {
+    "kode": "I125",
+    "keterangan": "Indosat 125.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "123925",
+    "status": "1"
+  },
+  {
+    "kode": "I175",
+    "keterangan": "Indosat 175.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "173175",
+    "status": "1"
+  },
+  {
+    "kode": "I225",
+    "keterangan": "Indosat 225.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "222425",
+    "status": "1"
+  },
+  {
+    "kode": "I250",
+    "keterangan": "Indosat 250.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "247165",
+    "status": "1"
+  },
+  {
+    "kode": "I300",
+    "keterangan": "Indosat 300.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "296615",
+    "status": "1"
+  },
+  {
+    "kode": "I400",
+    "keterangan": "Indosat 400.000",
+    "produk": "Indosat",
+    "kategori": "PULSA",
+    "harga": "395115",
+    "status": "1"
+  },
+  {
+    "kode": "S5",
+    "keterangan": "Telkomsel 5.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "5225",
+    "status": "1"
+  },
+  {
+    "kode": "S10",
+    "keterangan": "Telkomsel 10.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "10148",
+    "status": "1"
+  },
+  {
+    "kode": "SP20",
+    "keterangan": "Telkomsel Promo 20.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "19847",
+    "status": "1"
+  },
+  {
+    "kode": "S25",
+    "keterangan": "Telkomsel 25.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "24704",
+    "status": "1"
+  },
+  {
+    "kode": "S50",
+    "keterangan": "Telkomsel 50.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "49314",
+    "status": "1"
+  },
+  {
+    "kode": "S100",
+    "keterangan": "Telkomsel 100.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "97100",
+    "status": "1"
+  },
+  {
+    "kode": "S2",
+    "keterangan": "Telkomsel 2.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "2795",
+    "status": "1"
+  },
+  {
+    "kode": "S3",
+    "keterangan": "Telkomsel 3.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "3771",
+    "status": "1"
+  },
+  {
+    "kode": "S30",
+    "keterangan": "Telkomsel 30.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "29525",
+    "status": "1"
+  },
+  {
+    "kode": "SP10",
+    "keterangan": "Telkomsel Promo 10.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "10143",
+    "status": "1"
+  },
+  {
+    "kode": "S40",
+    "keterangan": "Telkomsel 40.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "39135",
+    "status": "1"
+  },
+  {
+    "kode": "S60",
+    "keterangan": "Telkomsel 60.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "59343",
+    "status": "1"
+  },
+  {
+    "kode": "S70",
+    "keterangan": "Telkomsel 70.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "69246",
+    "status": "1"
+  },
+  {
+    "kode": "S6",
+    "keterangan": "Telkomsel 6.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "6925",
+    "status": "1"
+  },
+  {
+    "kode": "S4",
+    "keterangan": "Telkomsel 4.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "4946",
+    "status": "1"
+  },
+  {
+    "kode": "S35",
+    "keterangan": "Telkomsel 35.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "34630",
+    "status": "1"
+  },
+  {
+    "kode": "S45",
+    "keterangan": "Telkomsel 45.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "44535",
+    "status": "1"
+  },
+  {
+    "kode": "S90",
+    "keterangan": "Telkomsel 90.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "88966",
+    "status": "1"
+  },
+  {
+    "kode": "S85",
+    "keterangan": "Telkomsel 85.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "84029",
+    "status": "1"
+  },
+  {
+    "kode": "S75",
+    "keterangan": "Telkomsel 75.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "73275",
+    "status": "1"
+  },
+  {
+    "kode": "S65",
+    "keterangan": "Telkomsel 65.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "64307",
+    "status": "1"
+  },
+  {
+    "kode": "S55",
+    "keterangan": "Telkomsel 55.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "54415",
+    "status": "1"
+  },
+  {
+    "kode": "S80",
+    "keterangan": "Telkomsel 80.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "79124",
+    "status": "1"
+  },
+  {
+    "kode": "S95",
+    "keterangan": "Telkomsel 95.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "93903",
+    "status": "1"
+  },
+  {
+    "kode": "SP5",
+    "keterangan": "Telkomsel Promo 5.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "5219",
+    "status": "1"
+  },
+  {
+    "kode": "S15",
+    "keterangan": "Telkomsel 15.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "14850",
+    "status": "1"
+  },
+  {
+    "kode": "S20",
+    "keterangan": "Telkomsel 20.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "19848",
+    "status": "1"
+  },
+  {
+    "kode": "S200",
+    "keterangan": "Telkomsel 200.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "194100",
+    "status": "1"
+  },
+  {
+    "kode": "S150",
+    "keterangan": "Telkomsel 150.000",
+    "produk": "Telkomsel",
+    "kategori": "PULSA",
+    "harga": "149000",
+    "status": "1"
+  },
+  {
+    "kode": "SM5",
+    "keterangan": "Smartfren 5.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "4880",
+    "status": "1"
+  },
+  {
+    "kode": "SM10",
+    "keterangan": "Smartfren 10.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "9730",
+    "status": "1"
+  },
+  {
+    "kode": "SM20",
+    "keterangan": "Smartfren 20.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "19430",
+    "status": "1"
+  },
+  {
+    "kode": "SM25",
+    "keterangan": "Smartfren 25.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "24280",
+    "status": "1"
+  },
+  {
+    "kode": "SM30",
+    "keterangan": "Smartfren 30.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "29130",
+    "status": "1"
+  },
+  {
+    "kode": "SM50",
+    "keterangan": "Smartfren 50.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "48050",
+    "status": "1"
+  },
+  {
+    "kode": "SM60",
+    "keterangan": "Smartfren 60.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "58050",
+    "status": "1"
+  },
+  {
+    "kode": "SM100",
+    "keterangan": "Smartfren 100.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "95780",
+    "status": "1"
+  },
+  {
+    "kode": "SM75",
+    "keterangan": "Smartfren 75.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "72800",
+    "status": "1"
+  },
+  {
+    "kode": "SM150",
+    "keterangan": "Smartfren 150.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "145720",
+    "status": "1"
+  },
+  {
+    "kode": "SM200",
+    "keterangan": "Smartfren 200.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "194550",
+    "status": "1"
+  },
+  {
+    "kode": "SM15",
+    "keterangan": "Smartfren 15.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "14580",
+    "status": "1"
+  },
+  {
+    "kode": "SM80",
+    "keterangan": "Smartfren 80.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "77510",
+    "status": "1"
+  },
+  {
+    "kode": "SM85",
+    "keterangan": "Smartfren 85.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "82375",
+    "status": "1"
+  },
+  {
+    "kode": "SM70",
+    "keterangan": "Smartfren 70.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "67950",
+    "status": "1"
+  },
+  {
+    "kode": "SM90",
+    "keterangan": "Smartfren 90.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "87215",
+    "status": "1"
+  },
+  {
+    "kode": "SM12",
+    "keterangan": "Smartfren 12.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "11645",
+    "status": "1"
+  },
+  {
+    "kode": "SM40",
+    "keterangan": "Smartfren 40.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "38830",
+    "status": "1"
+  },
+  {
+    "kode": "SM65",
+    "keterangan": "Smartfren 65.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "62990",
+    "status": "1"
+  },
+  {
+    "kode": "SM95",
+    "keterangan": "Smartfren 95.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "92055",
+    "status": "1"
+  },
+  {
+    "kode": "SM35",
+    "keterangan": "Smartfren 35.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "34200",
+    "status": "1"
+  },
+  {
+    "kode": "SM45",
+    "keterangan": "Smartfren 45.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "43880",
+    "status": "1"
+  },
+  {
+    "kode": "SM55",
+    "keterangan": "Smartfren 55.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "53260",
+    "status": "1"
+  },
+  {
+    "kode": "SM125",
+    "keterangan": "Smartfren 125.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "121650",
+    "status": "1"
+  },
+  {
+    "kode": "SM300",
+    "keterangan": "Smartfren H2H 300.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "296700",
+    "status": "1"
+  },
+  {
+    "kode": "SM500",
+    "keterangan": "Smartfren H2H 500.000",
+    "produk": "Smartfren",
+    "kategori": "PULSA",
+    "harga": "494080",
+    "status": "1"
+  },
+  {
+    "kode": "T5",
+    "keterangan": "Three 5.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "6480",
+    "status": "1"
+  },
+  {
+    "kode": "T10",
+    "keterangan": "Three 10.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "11338",
+    "status": "1"
+  },
+  {
+    "kode": "T20",
+    "keterangan": "Three 20.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "20684",
+    "status": "1"
+  },
+  {
+    "kode": "T25",
+    "keterangan": "Three 25.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "25542",
+    "status": "1"
+  },
+  {
+    "kode": "T30",
+    "keterangan": "Three 30.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "30652",
+    "status": "1"
+  },
+  {
+    "kode": "T50",
+    "keterangan": "Three 50.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "48450",
+    "status": "1"
+  },
+  {
+    "kode": "T100",
+    "keterangan": "Three 100.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "97600",
+    "status": "1"
+  },
+  {
+    "kode": "T15",
+    "keterangan": "Three 15.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "15817",
+    "status": "1"
+  },
+  {
+    "kode": "T75",
+    "keterangan": "Three 75.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "73423",
+    "status": "1"
+  },
+  {
+    "kode": "T150",
+    "keterangan": "Three 150.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "146361",
+    "status": "1"
+  },
+  {
+    "kode": "T200",
+    "keterangan": "Three 200.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "194936",
+    "status": "1"
+  },
+  {
+    "kode": "T40",
+    "keterangan": "Three 40.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "39396",
+    "status": "1"
+  },
+  {
+    "kode": "T60",
+    "keterangan": "Three 60.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "58826",
+    "status": "1"
+  },
+  {
+    "kode": "T70",
+    "keterangan": "Three 70.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "68566",
+    "status": "1"
+  },
+  {
+    "kode": "T80",
+    "keterangan": "Three 80.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "78506",
+    "status": "1"
+  },
+  {
+    "kode": "T90",
+    "keterangan": "Three 90.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "88221",
+    "status": "1"
+  },
+  {
+    "kode": "T125",
+    "keterangan": "Three 125.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "122623",
+    "status": "1"
+  },
+  {
+    "kode": "T500",
+    "keterangan": "Three H2H 500.000",
+    "produk": "Three",
+    "kategori": "PULSA",
+    "harga": "486736",
+    "status": "1"
+  },
+  {
+    "kode": "X5",
+    "keterangan": "XL 5.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "5841",
+    "status": "1"
+  },
+  {
+    "kode": "X10",
+    "keterangan": "XL 10.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "10822",
+    "status": "1"
+  },
+  {
+    "kode": "X15",
+    "keterangan": "XL 15.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "14940",
+    "status": "1"
+  },
+  {
+    "kode": "X25",
+    "keterangan": "XL 25.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "24899",
+    "status": "1"
+  },
+  {
+    "kode": "X30",
+    "keterangan": "XL 30.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "29882",
+    "status": "1"
+  },
+  {
+    "kode": "X50",
+    "keterangan": "XL 50.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "49800",
+    "status": "1"
+  },
+  {
+    "kode": "X100",
+    "keterangan": "XL 100.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "99260",
+    "status": "1"
+  },
+  {
+    "kode": "X150",
+    "keterangan": "XL 150.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "149345",
+    "status": "1"
+  },
+  {
+    "kode": "X200",
+    "keterangan": "XL 200.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "199100",
+    "status": "1"
+  },
+  {
+    "kode": "XTP20",
+    "keterangan": "XL Transfer 20.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "20027",
+    "status": "1"
+  },
+  {
+    "kode": "X40",
+    "keterangan": "XL 40.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "39974",
+    "status": "1"
+  },
+  {
+    "kode": "X60",
+    "keterangan": "XL 60.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "59945",
+    "status": "1"
+  },
+  {
+    "kode": "X70",
+    "keterangan": "XL 70.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "69928",
+    "status": "1"
+  },
+  {
+    "kode": "X80",
+    "keterangan": "XL 80.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "79935",
+    "status": "1"
+  },
+  {
+    "kode": "X90",
+    "keterangan": "XL 90.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "89918",
+    "status": "1"
+  },
+  {
+    "kode": "X300",
+    "keterangan": "XL H2H 300.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "299202",
+    "status": "1"
+  },
+  {
+    "kode": "X500",
+    "keterangan": "XL H2H 500.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "498670",
+    "status": "1"
+  },
+  {
+    "kode": "X1JT",
+    "keterangan": "XL H2H 1.000.000",
+    "produk": "XL",
+    "kategori": "PULSA",
+    "harga": "996840",
+    "status": "1"
+  },
+  {
+    "kode": "XLA5",
+    "keterangan": "XL - Axis 5.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "5841",
+    "status": "1"
+  },
+  {
+    "kode": "XLA50",
+    "keterangan": "XL - Axis 50.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "49800",
+    "status": "1"
+  },
+  {
+    "kode": "XLA30",
+    "keterangan": "XL - Axis 30.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "29882",
+    "status": "1"
+  },
+  {
+    "kode": "XLA25",
+    "keterangan": "XL - Axis 25.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "24899",
+    "status": "1"
+  },
+  {
+    "kode": "XLA15",
+    "keterangan": "XL - Axis 15.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "14940",
+    "status": "1"
+  },
+  {
+    "kode": "XLA10",
+    "keterangan": "XL - Axis 10.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "10832",
+    "status": "1"
+  },
+  {
+    "kode": "XLA100",
+    "keterangan": "XL - Axis 100.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "99260",
+    "status": "1"
+  },
+  {
+    "kode": "XLA40",
+    "keterangan": "XL - Axis 40.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "39975",
+    "status": "1"
+  },
+  {
+    "kode": "XLA60",
+    "keterangan": "XL - Axis 60.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "59945",
+    "status": "1"
+  },
+  {
+    "kode": "XLA70",
+    "keterangan": "XL - Axis 70.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "69928",
+    "status": "1"
+  },
+  {
+    "kode": "XLA80",
+    "keterangan": "XL - Axis 80.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "79935",
+    "status": "1"
+  },
+  {
+    "kode": "XLA90",
+    "keterangan": "XL - Axis 90.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "89918",
+    "status": "1"
+  },
+  {
+    "kode": "XLA150",
+    "keterangan": "XL - Axis 150.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "149345",
+    "status": "1"
+  },
+  {
+    "kode": "XLA200",
+    "keterangan": "XL - Axis 200.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "199100",
+    "status": "1"
+  },
+  {
+    "kode": "XLA300",
+    "keterangan": "XL - Axis H2H 300.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "299202",
+    "status": "1"
+  },
+  {
+    "kode": "XLA500",
+    "keterangan": "XL - Axis H2H 500.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "498670",
+    "status": "1"
+  },
+  {
+    "kode": "XLA1JT",
+    "keterangan": "XL - Axis H2H 1.000.000",
+    "produk": "XL - Axis",
+    "kategori": "PULSA",
+    "harga": "996840",
+    "status": "1"
+  },
+  {
+    "kode": "BYU5",
+    "keterangan": "By U 5.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "5280",
+    "status": "1"
+  },
+  {
+    "kode": "BYU10",
+    "keterangan": "By U 10.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "10180",
+    "status": "1"
+  },
+  {
+    "kode": "BYU50",
+    "keterangan": "By U 50.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "49800",
+    "status": "1"
+  },
+  {
+    "kode": "BYU100",
+    "keterangan": "By U 100.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "99250",
+    "status": "1"
+  },
+  {
+    "kode": "BYU75",
+    "keterangan": "By U 75.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "74600",
+    "status": "1"
+  },
+  {
+    "kode": "BYU25",
+    "keterangan": "By U 25.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "25000",
+    "status": "1"
+  },
+  {
+    "kode": "BYU20",
+    "keterangan": "By U 20.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "20125",
+    "status": "1"
+  },
+  {
+    "kode": "BYU150",
+    "keterangan": "By U 150.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "149700",
+    "status": "1"
+  },
+  {
+    "kode": "BYU15",
+    "keterangan": "By U 15.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "15225",
+    "status": "1"
+  },
+  {
+    "kode": "BYU40",
+    "keterangan": "By U 40.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "39900",
+    "status": "1"
+  },
+  {
+    "kode": "BYU30",
+    "keterangan": "By U 30.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "29975",
+    "status": "1"
+  },
+  {
+    "kode": "BYU35",
+    "keterangan": "By U 35.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "34825",
+    "status": "1"
+  },
+  {
+    "kode": "BYU90",
+    "keterangan": "By U 90.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "89600",
+    "status": "1"
+  },
+  {
+    "kode": "BYU95",
+    "keterangan": "By U 95.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "94500",
+    "status": "1"
+  },
+  {
+    "kode": "BYU85",
+    "keterangan": "By U 85.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "84500",
+    "status": "1"
+  },
+  {
+    "kode": "BYU80",
+    "keterangan": "By U 80.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "79600",
+    "status": "1"
+  },
+  {
+    "kode": "BYU55",
+    "keterangan": "By U 55.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "54700",
+    "status": "1"
+  },
+  {
+    "kode": "BYU45",
+    "keterangan": "By U 45.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "44800",
+    "status": "1"
+  },
+  {
+    "kode": "BYU70",
+    "keterangan": "By U 70.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "69600",
+    "status": "1"
+  },
+  {
+    "kode": "BYU60",
+    "keterangan": "By U 60.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "59700",
+    "status": "1"
+  },
+  {
+    "kode": "BYU65",
+    "keterangan": "By U 65.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "64600",
+    "status": "1"
+  },
+  {
+    "kode": "BYU200",
+    "keterangan": "By U 200.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "199050",
+    "status": "1"
+  },
+  {
+    "kode": "BYU1",
+    "keterangan": "By U 1.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "1825",
+    "status": "close"
+  },
+  {
+    "kode": "BYU2",
+    "keterangan": "By U 2.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "2775",
+    "status": "1"
+  },
+  {
+    "kode": "BYU3",
+    "keterangan": "By U 3.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "3775",
+    "status": "1"
+  },
+  {
+    "kode": "BYU4",
+    "keterangan": "By U 4.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "4775",
+    "status": "1"
+  },
+  {
+    "kode": "BYU300",
+    "keterangan": "By U 300.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "300650",
+    "status": "1"
+  },
+  {
+    "kode": "BYU500",
+    "keterangan": "By U 500.000",
+    "produk": "By U",
+    "kategori": "PULSA",
+    "harga": "500850",
+    "status": "1"
+  },
+  {
+    "kode": "MAST10",
+    "keterangan": "Masa Aktif Telkomsel + 10 Hari",
+    "produk": "+Masa Aktif",
+    "kategori": "PULSA",
+    "harga": "3875",
+    "status": "1"
+  },
+  {
+    "kode": "MAST15",
+    "keterangan": "Masa Aktif Telkomsel + 15 Hari",
+    "produk": "+Masa Aktif",
+    "kategori": "PULSA",
+    "harga": "5750",
+    "status": "1"
+  },
+  {
+    "kode": "MAST180",
+    "keterangan": "Masa Aktif Telkomsel + 180 Hari",
+    "produk": "+Masa Aktif",
+    "kategori": "PULSA",
+    "harga": "59555",
+    "status": "1"
+  },
+  {
+    "kode": "MAST360",
+    "keterangan": "Masa Aktif Telkomsel + 360 Hari",
+    "produk": "+Masa Aktif",
+    "kategori": "PULSA",
+    "harga": "109555",
+    "status": "1"
+  },
+  {
+    "kode": "MAST5",
+    "keterangan": "Masa Aktif Telkomsel + 5 Hari",
+    "produk": "+Masa Aktif",
+    "kategori": "PULSA",
+    "harga": "2400",
+    "status": "1"
+  },
+  {
+    "kode": "MAST90",
+    "keterangan": "Masa Aktif Telkomsel + 90 Hari",
+    "produk": "+Masa Aktif",
+    "kategori": "PULSA",
+    "harga": "31940",
+    "status": "1"
+  },
+  {
+    "kode": "MAST30",
+    "keterangan": "Masa Aktif Telkomsel + 30 Hari",
+    "produk": "+Masa Aktif",
+    "kategori": "PULSA",
+    "harga": "13300",
+    "status": "1"
+  },
+  {
+    "kode": "MSTH4",
+    "keterangan": "Masa Aktif Kartu Tri + 4 Bulan",
+    "produk": "+Masa Aktif Tri",
+    "kategori": "PULSA",
+    "harga": "3235",
+    "status": "1"
+  },
+  {
+    "kode": "MASA14",
+    "keterangan": "Masa Aktif Axis + 14 Hari",
+    "produk": "+Masa Aktif Axis",
+    "kategori": "PULSA",
+    "harga": "450",
+    "status": "close"
+  },
+  {
+    "kode": "MASA120",
+    "keterangan": "Masa Aktif Axis + 4 Bulan",
+    "produk": "+Masa Aktif Axis",
+    "kategori": "PULSA",
+    "harga": "7380",
+    "status": "1"
+  },
+  {
+    "kode": "MASA30",
+    "keterangan": "Masa Aktif Axis + 30 Hari",
+    "produk": "+Masa Aktif Axis",
+    "kategori": "PULSA",
+    "harga": "4097",
+    "status": "1"
+  },
+  {
+    "kode": "MAXL1Y",
+    "keterangan": "Masa Aktif XL + 1 Hari",
+    "produk": "+Masa Aktif XL",
+    "kategori": "PULSA",
+    "harga": "650",
+    "status": "close"
+  },
+  {
+    "kode": "MAXL1E",
+    "keterangan": "Masa Aktif XL + 1 Hari",
+    "produk": "+Masa Aktif XL",
+    "kategori": "PULSA",
+    "harga": "1250",
+    "status": "1"
+  },
+  {
+    "kode": "MAXLA",
+    "keterangan": "Masa Aktif XL + 30 Hari",
+    "produk": "+Masa Aktif XL",
+    "kategori": "PULSA",
+    "harga": "4800",
+    "status": "1"
+  },
+  {
+    "kode": "IMSA12",
+    "keterangan": "Masa Aktif Indosat + 360 Hari",
+    "produk": "+Masa Aktif Indosat",
+    "kategori": "PULSA",
+    "harga": "47500",
+    "status": "close"
+  },
+  {
+    "kode": "IMSA3",
+    "keterangan": "Masa Aktif Indosat + 90 Hari",
+    "produk": "+Masa Aktif Indosat",
+    "kategori": "PULSA",
+    "harga": "14400",
+    "status": "close"
+  },
+  {
+    "kode": "IMSA6",
+    "keterangan": "Masa Aktif Indosat + 180 Hari",
+    "produk": "+Masa Aktif Indosat",
+    "kategori": "PULSA",
+    "harga": "26300",
+    "status": "close"
+  },
+  {
+    "kode": "IMSA1",
+    "keterangan": "Masa Aktif Indosat + 30 Hari",
+    "produk": "+Masa Aktif Indosat",
+    "kategori": "PULSA",
+    "harga": "9795",
+    "status": "1"
+  },
+  {
+    "kode": "IMSA15",
+    "keterangan": "Masa Aktif Indosat + 15 Hari",
+    "produk": "+Masa Aktif Indosat",
+    "kategori": "PULSA",
+    "harga": "7400",
+    "status": "1"
+  },
+  {
+    "kode": "INDOSAT-5000",
+    "keterangan": "INDOSAT PRIORITAS 5.000",
+    "produk": "+Masa Aktif Indosat",
+    "kategori": "PULSA",
+    "harga": "7150",
+    "status": "1"
+  },
+  {
+    "kode": "IMSA3H",
+    "keterangan": "Masa Aktif Indosat + 3 Hari",
+    "produk": "+Masa Aktif Indosat",
+    "kategori": "PULSA",
+    "harga": "2800",
+    "status": "close"
+  },
+  {
+    "kode": "IMSA14H",
+    "keterangan": "Masa Aktif Indosat + 14 Hari",
+    "produk": "+Masa Aktif Indosat",
+    "kategori": "PULSA",
+    "harga": "5700",
+    "status": "close"
+  }
+]
