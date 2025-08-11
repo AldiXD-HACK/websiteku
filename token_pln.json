@@ -5,7 +5,7 @@
     "produk": "Token PLN Prabayar",
     "kategori": "TOKEN PLN",
     "harga": "209994",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLN500",
@@ -13,7 +13,7 @@
     "produk": "Token PLN Prabayar",
     "kategori": "TOKEN PLN",
     "harga": "509994",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "CPLN",
@@ -21,7 +21,7 @@
     "produk": "Token PLN Prabayar",
     "kategori": "TOKEN PLN",
     "harga": "0",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLN20",
@@ -29,7 +29,7 @@
     "produk": "Token PLN Prabayar",
     "kategori": "TOKEN PLN",
     "harga": "29994",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLN100",
@@ -37,7 +37,7 @@
     "produk": "Token PLN Prabayar",
     "kategori": "TOKEN PLN",
     "harga": "109994",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLN50",
@@ -45,7 +45,7 @@
     "produk": "Token PLN Prabayar",
     "kategori": "TOKEN PLN",
     "harga": "59994",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLN1000",
@@ -53,7 +53,7 @@
     "produk": "Token PLN Prabayar",
     "kategori": "TOKEN PLN",
     "harga": "1009994",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLN10",
@@ -61,7 +61,7 @@
     "produk": "Token PLN Prabayar",
     "kategori": "TOKEN PLN",
     "harga": "11603",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLN15",
@@ -69,7 +69,7 @@
     "produk": "Token PLN Prabayar",
     "kategori": "TOKEN PLN",
     "harga": "16603",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLN5",
@@ -77,7 +77,7 @@
     "produk": "Token PLN Prabayar",
     "kategori": "TOKEN PLN",
     "harga": "6603",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNB100",
@@ -85,7 +85,7 @@
     "produk": "H2H Token PLN Terbaik",
     "kategori": "TOKEN PLN",
     "harga": "100565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNB1000",
@@ -93,7 +93,7 @@
     "produk": "H2H Token PLN Terbaik",
     "kategori": "TOKEN PLN",
     "harga": "1000565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNB20",
@@ -101,7 +101,7 @@
     "produk": "H2H Token PLN Terbaik",
     "kategori": "TOKEN PLN",
     "harga": "20565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNB200",
@@ -109,7 +109,7 @@
     "produk": "H2H Token PLN Terbaik",
     "kategori": "TOKEN PLN",
     "harga": "200565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNB50",
@@ -117,7 +117,7 @@
     "produk": "H2H Token PLN Terbaik",
     "kategori": "TOKEN PLN",
     "harga": "50565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNB500",
@@ -125,7 +125,7 @@
     "produk": "H2H Token PLN Terbaik",
     "kategori": "TOKEN PLN",
     "harga": "500565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNB5JT",
@@ -133,7 +133,7 @@
     "produk": "H2H Token PLN Terbaik",
     "kategori": "TOKEN PLN",
     "harga": "5000565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNB10JT",
@@ -141,7 +141,7 @@
     "produk": "H2H Token PLN Terbaik",
     "kategori": "TOKEN PLN",
     "harga": "10000565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNP100",
@@ -149,7 +149,7 @@
     "produk": "H2H Token PLN Promo",
     "kategori": "TOKEN PLN",
     "harga": "100558",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNP20",
@@ -157,7 +157,7 @@
     "produk": "H2H Token PLN Promo",
     "kategori": "TOKEN PLN",
     "harga": "20558",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNP200",
@@ -165,7 +165,7 @@
     "produk": "H2H Token PLN Promo",
     "kategori": "TOKEN PLN",
     "harga": "200558",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNP50",
@@ -173,7 +173,7 @@
     "produk": "H2H Token PLN Promo",
     "kategori": "TOKEN PLN",
     "harga": "50558",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNP500",
@@ -181,7 +181,7 @@
     "produk": "H2H Token PLN Promo",
     "kategori": "TOKEN PLN",
     "harga": "500558",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNP1000",
@@ -189,7 +189,7 @@
     "produk": "H2H Token PLN Promo",
     "kategori": "TOKEN PLN",
     "harga": "1000558",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNF100",
@@ -197,7 +197,7 @@
     "produk": "H2H Token PLN Full Reply",
     "kategori": "TOKEN PLN",
     "harga": "100565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNF1000",
@@ -205,7 +205,7 @@
     "produk": "H2H Token PLN Full Reply",
     "kategori": "TOKEN PLN",
     "harga": "1000565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNF20",
@@ -213,7 +213,7 @@
     "produk": "H2H Token PLN Full Reply",
     "kategori": "TOKEN PLN",
     "harga": "20565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNF200",
@@ -221,7 +221,7 @@
     "produk": "H2H Token PLN Full Reply",
     "kategori": "TOKEN PLN",
     "harga": "200565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNF50",
@@ -229,7 +229,7 @@
     "produk": "H2H Token PLN Full Reply",
     "kategori": "TOKEN PLN",
     "harga": "50565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNF500",
@@ -237,7 +237,7 @@
     "produk": "H2H Token PLN Full Reply",
     "kategori": "TOKEN PLN",
     "harga": "500565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNF10JT",
@@ -245,7 +245,7 @@
     "produk": "H2H Token PLN Full Reply",
     "kategori": "TOKEN PLN",
     "harga": "10000565",
-    "status": "open"
+    "status": "1"
   },
   {
     "kode": "PLNF5JT",
@@ -253,6 +253,6 @@
     "produk": "H2H Token PLN Full Reply",
     "kategori": "TOKEN PLN",
     "harga": "5000565",
-    "status": "open"
+    "status": "1"
   }
 ]
