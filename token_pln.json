@@ -1,0 +1,258 @@
+[
+  {
+    "kode": "PLN200",
+    "keterangan": "Token PLN 200.000",
+    "produk": "Token PLN Prabayar",
+    "kategori": "TOKEN PLN",
+    "harga": "209994",
+    "status": "open"
+  },
+  {
+    "kode": "PLN500",
+    "keterangan": "Token PLN 500.000",
+    "produk": "Token PLN Prabayar",
+    "kategori": "TOKEN PLN",
+    "harga": "509994",
+    "status": "open"
+  },
+  {
+    "kode": "CPLN",
+    "keterangan": "CEK NAMA ID PELANGAN",
+    "produk": "Token PLN Prabayar",
+    "kategori": "TOKEN PLN",
+    "harga": "0",
+    "status": "open"
+  },
+  {
+    "kode": "PLN20",
+    "keterangan": "Token PLN 20.000",
+    "produk": "Token PLN Prabayar",
+    "kategori": "TOKEN PLN",
+    "harga": "29994",
+    "status": "open"
+  },
+  {
+    "kode": "PLN100",
+    "keterangan": "Token PLN 100.000",
+    "produk": "Token PLN Prabayar",
+    "kategori": "TOKEN PLN",
+    "harga": "109994",
+    "status": "open"
+  },
+  {
+    "kode": "PLN50",
+    "keterangan": "Token PLN 50.000",
+    "produk": "Token PLN Prabayar",
+    "kategori": "TOKEN PLN",
+    "harga": "59994",
+    "status": "open"
+  },
+  {
+    "kode": "PLN1000",
+    "keterangan": "Token PLN 1 Juta",
+    "produk": "Token PLN Prabayar",
+    "kategori": "TOKEN PLN",
+    "harga": "1009994",
+    "status": "open"
+  },
+  {
+    "kode": "PLN10",
+    "keterangan": "Token PLN 10.000",
+    "produk": "Token PLN Prabayar",
+    "kategori": "TOKEN PLN",
+    "harga": "11603",
+    "status": "open"
+  },
+  {
+    "kode": "PLN15",
+    "keterangan": "Token PLN 15.000",
+    "produk": "Token PLN Prabayar",
+    "kategori": "TOKEN PLN",
+    "harga": "16603",
+    "status": "open"
+  },
+  {
+    "kode": "PLN5",
+    "keterangan": "Token PLN 5.000",
+    "produk": "Token PLN Prabayar",
+    "kategori": "TOKEN PLN",
+    "harga": "6603",
+    "status": "open"
+  },
+  {
+    "kode": "PLNB100",
+    "keterangan": "H2H Token PLN 100.000",
+    "produk": "H2H Token PLN Terbaik",
+    "kategori": "TOKEN PLN",
+    "harga": "100565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNB1000",
+    "keterangan": "H2H Token PLN 1.000.000",
+    "produk": "H2H Token PLN Terbaik",
+    "kategori": "TOKEN PLN",
+    "harga": "1000565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNB20",
+    "keterangan": "H2H Token PLN 20.000",
+    "produk": "H2H Token PLN Terbaik",
+    "kategori": "TOKEN PLN",
+    "harga": "20565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNB200",
+    "keterangan": "H2H Token PLN 200.000",
+    "produk": "H2H Token PLN Terbaik",
+    "kategori": "TOKEN PLN",
+    "harga": "200565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNB50",
+    "keterangan": "H2H Token PLN 50.000",
+    "produk": "H2H Token PLN Terbaik",
+    "kategori": "TOKEN PLN",
+    "harga": "50565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNB500",
+    "keterangan": "H2H Token PLN 500.000",
+    "produk": "H2H Token PLN Terbaik",
+    "kategori": "TOKEN PLN",
+    "harga": "500565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNB5JT",
+    "keterangan": "H2H Token PLN 5.000.000",
+    "produk": "H2H Token PLN Terbaik",
+    "kategori": "TOKEN PLN",
+    "harga": "5000565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNB10JT",
+    "keterangan": "H2H Token PLN 10.000.000",
+    "produk": "H2H Token PLN Terbaik",
+    "kategori": "TOKEN PLN",
+    "harga": "10000565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNP100",
+    "keterangan": "Promo Token PLN 100 Ribu",
+    "produk": "H2H Token PLN Promo",
+    "kategori": "TOKEN PLN",
+    "harga": "100558",
+    "status": "open"
+  },
+  {
+    "kode": "PLNP20",
+    "keterangan": "Promo Token PLN 20 Ribu",
+    "produk": "H2H Token PLN Promo",
+    "kategori": "TOKEN PLN",
+    "harga": "20558",
+    "status": "open"
+  },
+  {
+    "kode": "PLNP200",
+    "keterangan": "Promo Token PLN 200 Ribu",
+    "produk": "H2H Token PLN Promo",
+    "kategori": "TOKEN PLN",
+    "harga": "200558",
+    "status": "open"
+  },
+  {
+    "kode": "PLNP50",
+    "keterangan": "Promo Token PLN 50 Ribu",
+    "produk": "H2H Token PLN Promo",
+    "kategori": "TOKEN PLN",
+    "harga": "50558",
+    "status": "open"
+  },
+  {
+    "kode": "PLNP500",
+    "keterangan": "Promo Token PLN 500 Ribu",
+    "produk": "H2H Token PLN Promo",
+    "kategori": "TOKEN PLN",
+    "harga": "500558",
+    "status": "open"
+  },
+  {
+    "kode": "PLNP1000",
+    "keterangan": "Promo Token PLN 1 Juta",
+    "produk": "H2H Token PLN Promo",
+    "kategori": "TOKEN PLN",
+    "harga": "1000558",
+    "status": "open"
+  },
+  {
+    "kode": "PLNF100",
+    "keterangan": "H2H Token PLN 100.000",
+    "produk": "H2H Token PLN Full Reply",
+    "kategori": "TOKEN PLN",
+    "harga": "100565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNF1000",
+    "keterangan": "H2H Token PLN 1.000.000",
+    "produk": "H2H Token PLN Full Reply",
+    "kategori": "TOKEN PLN",
+    "harga": "1000565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNF20",
+    "keterangan": "H2H Token PLN 20.000",
+    "produk": "H2H Token PLN Full Reply",
+    "kategori": "TOKEN PLN",
+    "harga": "20565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNF200",
+    "keterangan": "H2H Token PLN 200.000",
+    "produk": "H2H Token PLN Full Reply",
+    "kategori": "TOKEN PLN",
+    "harga": "200565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNF50",
+    "keterangan": "H2H Token PLN 50.000",
+    "produk": "H2H Token PLN Full Reply",
+    "kategori": "TOKEN PLN",
+    "harga": "50565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNF500",
+    "keterangan": "H2H Token PLN 500.000",
+    "produk": "H2H Token PLN Full Reply",
+    "kategori": "TOKEN PLN",
+    "harga": "500565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNF10JT",
+    "keterangan": "H2H Token PLN 10.000.000",
+    "produk": "H2H Token PLN Full Reply",
+    "kategori": "TOKEN PLN",
+    "harga": "10000565",
+    "status": "open"
+  },
+  {
+    "kode": "PLNF5JT",
+    "keterangan": "H2H Token PLN 5.000.000",
+    "produk": "H2H Token PLN Full Reply",
+    "kategori": "TOKEN PLN",
+    "harga": "5000565",
+    "status": "open"
+  }
+]
